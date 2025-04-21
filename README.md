@@ -13,6 +13,7 @@ Geektak.com is an AI-focused blog I’ve built, rebranded, and grown over the pa
 - 📈 16.1K Impressions and 496 Clicks in Q1 2025
 - 🚀 3.1% Click-through rate—above average for AI topics
 - 💡 Rapid iteration and topic testing based on real data
+![Geektak Q1 2025 Stats](analytics/Geektak-site-stats-q1.jpg)
 
 ## Tools & Tech Used
 - ChatGPT + custom prompts for ideation
@@ -28,7 +29,9 @@ This project demonstrates:
 - Adaptability through multiple rebrands
 
 ## Future Plans
-- Integrate analytics dashboards (Looker Studio)
+- Content automation | Python X Llama 
 - Add newsletter & drip campaigns
 - Explore affiliate marketing strategies
+- earn first adsense dollar
+- ad more dynamic content
 
